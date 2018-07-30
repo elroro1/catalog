@@ -1,0 +1,42 @@
+/.twgit_features_subject
+/.twgit
+/web/static/
+/web/bundles/
+/app/bootstrap*
+/app/cache/*
+/app/logs/*
+/vendor/
+/node_modules/
+/bower_components/
+/bin/wkhtmltopdf-amd64
+/app/config/parameters.ini
+/app/config/parameters.yml
+/log/capistrano.log
+composer.phar
+.externalToolBuilders/
+.project
+.realsync
+
+#sitemap gneer depuis le blog
+sitemap.xml
+
+# OS Generated files
+# ------------------
+.DS_Store
+Thumbs.db
+\#*\#
+.\#*\#
+._*
+*~
+*.swp
+*.bak
+.idea
+nbproject/
+/.vimrc.local
+
+# Eclipse conf files
+.buildpath
+.settings
+.externalToolBuilders
+.transifexrc
+.composer
